@@ -1,0 +1,23 @@
+(student name and ID will be here on 1 line)
+Built trie from 109582 dictionary words
+then
+thence
+thenceforth
+thens
+apple
+applejack
+apples
+applesauce
+cats
+catskill
+catspaw
+catspaws
+catsup
+catsups
+when
+whenas
+whence
+whencesoever
+whenever
+whens
+whensoever
